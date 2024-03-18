@@ -1,0 +1,29 @@
+{
+  "name": "selivanovpetr",
+  "version": "1.0.0",
+  "description": "Selivanovpetr is a Node.js module that provides a collection of selivanovpetr utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selivanovpetr0s/selivanovpetr"
+  },
+  "dependencies": {
+	  "krotovsemen": "1.0.0",
+"borissolodov-func": "1.0.0",
+"rodrygarci": "1.0.0",
+"JohnYoung-js": "1.0.0",
+"sharonhall-config": "1.0.0",
+"christopherlee": "1.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selivanovpetr0s/selivanovpetr/issues"
+  },
+  "homepage": "https://github.com/selivanovpetr0s/selivanovpetr#readme"
+}
